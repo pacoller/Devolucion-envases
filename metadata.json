@@ -1,0 +1,7 @@
+{
+  "name": "Gestión de Envases y Devoluciones",
+  "description": "Sistema robusto de gestión de inventario, socios y devoluciones con panel de administración y control de estado de servicio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
